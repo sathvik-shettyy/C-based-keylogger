@@ -1,6 +1,3 @@
-Certainly! Below is a simple `Readme.md` file for the Keylogger Detector C++ code you provided. Feel free to customize it based on your preferences:
-
-```markdown
 # Keylogger Detector
 
 ## Overview
